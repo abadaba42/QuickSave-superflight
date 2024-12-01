@@ -2,8 +2,6 @@ C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\Quick
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\QuickSave.csproj.CoreCompileInputs.cache
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\QuickSave.dll
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\QuickSave.pdb
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\Assembly-CSharp.dll
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\UnityEngine.CoreModule.dll
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\UnityEngine.UI.dll
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\UnityEngine.PhysicsModule.dll
 C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\bin\Debug\UnityEngine.ScreenCaptureModule.dll
