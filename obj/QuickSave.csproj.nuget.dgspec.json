@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Angus\\OneDrive - UNSW\\Desktop\\superflight mod\\QuickSave\\QuickSave.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Angus\\OneDrive - UNSW\\Desktop\\superflight mod\\QuickSave\\QuickSave.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Angus\\OneDrive - UNSW\\Desktop\\superflight mod\\QuickSave\\QuickSave.csproj",
+        "projectName": "QuickSave",
+        "projectPath": "C:\\Users\\Angus\\OneDrive - UNSW\\Desktop\\superflight mod\\QuickSave\\QuickSave.csproj",
+        "packagesPath": "C:\\Users\\Angus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angus\\OneDrive - UNSW\\Desktop\\superflight mod\\QuickSave\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
