@@ -1,3 +1,4 @@
-!bin/Debug/QuickSave.dll
-bin/*
-obj/*
+**/bin/*
+**/obj/*
+!/QuickSave.dll
+**/QuickSave.dll
