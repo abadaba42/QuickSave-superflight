@@ -1,5 +1,0 @@
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\net461\QuickSave.csproj.AssemblyReference.cache
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\net461\QuickSave.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\net461\QuickSave.AssemblyInfoInputs.cache
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\net461\QuickSave.AssemblyInfo.cs
-C:\Users\Angus\OneDrive - UNSW\Desktop\superflight mod\QuickSave\obj\Debug\net461\QuickSave.csproj.CoreCompileInputs.cache
