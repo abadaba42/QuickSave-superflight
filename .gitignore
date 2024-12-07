@@ -1,4 +1,2 @@
-**/bin/*
-**/obj/*
-!/QuickSave.dll
-**/QuickSave.dll
+bin/*
+obj/*
